@@ -4,11 +4,11 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-class SampleTest5 {
+class SampleTest6 {
 
 	@Test
 	void test() {
-		System.out.println("Test555555");
+		System.out.println("Test6");
 	}
 
 }
